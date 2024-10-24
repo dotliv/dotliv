@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liv</h1>
 <h3 align="center">A Data Analytics grad student and Computer Science graduate with experience and background in cyber security technical support and business accounting.</h3>
 
-- 🔭 I’m currently working on **setting up my website & transfering personal projects to github (coming soon!)**
+- 🔭 I’m working on **setting up my website & transfering personal projects to github (coming soon!)**
 
 - 🌱 I’m currently learning **data analytics, Snowflake, ETL & Data Warehousing**
 
